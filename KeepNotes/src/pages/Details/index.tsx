@@ -8,6 +8,9 @@ export function Details() {
       <h1>Hello World!</h1>
       <span>Stephanie Guimarães</span>
       <Button title="Entrar" loading = {false}/>
+      <Button title="Entrar" loading = {false}/>
+      <Button title="Entrar" loading = {false}/>
+      <Button title="Entrar" loading = {false}/>
      
     </Container>
   );
