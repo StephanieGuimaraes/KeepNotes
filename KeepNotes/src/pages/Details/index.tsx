@@ -7,6 +7,7 @@ export function Details() {
   return (
     <Container>
       <Header/>
+      <Header/>
       <Button title="Entrar" loading = {false}/>
     </Container>
   );
