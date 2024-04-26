@@ -14,8 +14,12 @@ export function Details() {
           <li>
             <a href='https://github.com/StephanieGuimaraes'>Link 1</a>
           </li>
-          <li>Item 2</li>
-          <li>Item 3</li>
+          <li>
+            <a href='https://github.com/StephanieGuimaraes'>Link 2</a>
+          </li>
+          <li>
+            <a href='#'>Item 3</a>
+          </li>
         </Links>
       </Section>
      
