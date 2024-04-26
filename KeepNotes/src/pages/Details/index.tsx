@@ -22,6 +22,10 @@ export function Details() {
           </li>
         </Links>
       </Section>
+
+      <Section title="Marcadores">
+          
+      </Section>
      
       <Button title="Entrar" loading = {false}/>
     </Container>
